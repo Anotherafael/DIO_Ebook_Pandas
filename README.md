@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido para uma formação da [DIO](https://www.dio.me/), seguindo o repositório original do instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook).
 
-<a href="https://github.com/Anotherafael/DIO_Ebook_Pandas/blob/main/output/ebook%20-%20pandas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Anotherafael/DIO_Ebook_Pandas/blob/main/ebook/ebook-pandas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## Tecnologias
 
